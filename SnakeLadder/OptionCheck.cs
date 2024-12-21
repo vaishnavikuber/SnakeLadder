@@ -16,7 +16,7 @@ namespace SnakeLadder
             {
                 Console.WriteLine($"You got {Die} : No Play");
             }
-            else if(Die == 1 || Die == 3)
+            else if(Die == 2 || Die == 3)
             {
                 Console.WriteLine($"Wow!! you got {Die} : ladder");
             }
