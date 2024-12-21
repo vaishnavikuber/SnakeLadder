@@ -8,6 +8,8 @@ namespace SnakeLadder
         {
             StartGame.Start();
             RollDie.Roll();
+
+            OptionCheck.Check();
         }
     }
 }
