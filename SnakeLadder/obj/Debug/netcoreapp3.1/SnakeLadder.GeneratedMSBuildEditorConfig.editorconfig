@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SnakeLadder
-build_property.ProjectDir = C:\Users\vaish\source\repos\SnakeLadder\SnakeLadder\
+build_property.ProjectDir = C:\Users\vaish\Review-Class-Programs\SnakeLadder\SnakeLadder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaish\\source\\repos\\SnakeLadder\\SnakeLadder\\SnakeLadder.csproj",
+      "projectUniqueName": "C:\\Users\\vaish\\Review-Class-Programs\\SnakeLadder\\SnakeLadder\\SnakeLadder.csproj",
       "projectName": "SnakeLadder",
-      "projectPath": "C:\\Users\\vaish\\source\\repos\\SnakeLadder\\SnakeLadder\\SnakeLadder.csproj",
+      "projectPath": "C:\\Users\\vaish\\Review-Class-Programs\\SnakeLadder\\SnakeLadder\\SnakeLadder.csproj",
       "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaish\\source\\repos\\SnakeLadder\\SnakeLadder\\obj\\",
+      "outputPath": "C:\\Users\\vaish\\Review-Class-Programs\\SnakeLadder\\SnakeLadder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
